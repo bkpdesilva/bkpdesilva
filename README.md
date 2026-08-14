@@ -6,7 +6,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bkpdesilva&color=blue&style=flat)](https://github.com/bkpdesilva)
 
-[![Older Account](https://img.shields.io/badge/View_My_Older_Account-praveen--de--silva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveen-de-silva)
+> [!IMPORTANT]
+> 📌 **Most of my project history lives here:** [github.com/praveen-de-silva](https://github.com/praveen-de-silva)
 
 </div>
 
