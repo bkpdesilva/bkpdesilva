@@ -6,6 +6,23 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bkpdesilva&color=blue&style=flat)](https://github.com/bkpdesilva)
 
+<br>
+
+📌 **Previous GitHub Account**
+
+<a href="https://github.com/praveen-de-silva">
+  <img src="https://img.shields.io/badge/Previous%20GitHub-@praveen--de--silva-181717?style=for-the-badge&logo=github&logoColor=white" alt="Previous GitHub Account"/>
+</a>
+
+<br>
+
+<sub>Earlier projects and contributions are available on my previous account.</sub>
+
+</div>
+
+<br>
+
+
 </div>
 
 <br>
