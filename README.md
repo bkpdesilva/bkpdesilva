@@ -6,37 +6,20 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bkpdesilva&color=blue&style=flat)](https://github.com/bkpdesilva)
 
-> [!IMPORTANT]
-> 📌 **Most of my project history lives here:** [github.com/praveen-de-silva](https://github.com/praveen-de-silva)
+<br>
+
+📌 **Previous GitHub Account**
+
+<a href="https://github.com/praveen-de-silva">
+  <img src="https://img.shields.io/badge/Previous%20GitHub-@praveen--de--silva-181717?style=for-the-badge&logo=github&logoColor=white" alt="Previous GitHub Account"/>
+</a>
+
+<br>
+
+<sub>Earlier projects and contributions are available on my previous account.</sub>
 
 </div>
 
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🚀 Data Science, AI/ML
-### 🎓 CSE - UoM
-### 💡 Open-Source Projects
-
-<br clear="right"/>
-
----
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/python.png" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/javascript.png" width="48" height="48"
